@@ -118,7 +118,7 @@ function App() {
     <div className="app">
       <div className="todo-container">
         <header className="header">
-          <h1>📝 FastAPI To-Do App</h1>
+          <h1>✨ To-Do App</h1>
           <p className="subtitle">Manage your tasks efficiently</p>
           {totalCount > 0 && (
             <div className="stats">
@@ -210,7 +210,7 @@ function App() {
         </div>
 
         <footer className="footer">
-          <p>Built with FastAPI + React</p>
+          <p>Built with ❤️ using modern web technologies</p>
         </footer>
       </div>
     </div>
